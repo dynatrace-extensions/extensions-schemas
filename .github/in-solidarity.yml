@@ -1,0 +1,8 @@
+---
+rules:
+  solidarityTest:
+    regex:
+      - /solidarityTest/gi
+    level: warning
+    alternatives:
+      - solidaryWorks
