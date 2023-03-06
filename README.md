@@ -16,4 +16,4 @@ A schema release consists of:
   * [WMI datasource tutorial](https://www.dynatrace.com/support/help/shortlink/wmi-tutorial-00)
 
 ## Extensions Copilot 
-For extension development with snippets and real-time validation we recommend using [Copilot Visual Studio Code extension](https://extensions-copilot.dynatrace.com/).
+For extension development with snippets and real-time validation we recommend using [Copilot Visual Studio Code extension](https://dynatrace-extensions.github.io/dynatrace-extensions-copilot/).
