@@ -1,15 +1,19 @@
-# Extensions schema
-This repository consists of extensions schemas
-[releases](https://github.com/dynatrace-extensions/extensions-schemas/releases) for extensions developers.
+# Extension schemas 
 
-Each release is named and tagged with schema version (ex. 1.260.0),
-consists schemas in *assets* and changelog in *description*.
+When creating the [YAML files](https://www.dynatrace.com/support/help/shortlink/extension-yaml) for the Dynatrace Extensions 2.0 framework, the extension schemas are an efficient tool for your extension validation, code completion, and in-code documentation. 
 
-## Developing documentation
-* [Extensions 2.0](https://www.dynatrace.com/support/help/extend-dynatrace/extensions20)
-    * [Yaml file](https://www.dynatrace.com/support/help/extend-dynatrace/extensions20/extension-yaml)
-    * [WMI tutorial](https://www.dynatrace.com/support/help/extend-dynatrace/extensions20/data-sources/wmi-extensions/wmi-tutorial)
+This repository hosts the official Extensions 2.0 schemas for each Dynatrace version. 
 
-## Extensions Copilot
-For extension development with snippets and real-time validation we recommend
-using [Copilot vsc extension](https://extensions-copilot.dynatrace.com/).
+Schema releases are coupled with the [Dynatrace release lifecycle](https://www.dynatrace.com/support/help/shortlink/release-notes-saas) and are named and tagged with the schema version, for example, `1.260.0`. 
+
+A schema release consists of:
+* The schema JSON files in *assets*. 
+* The release changelog in *description*.
+
+## Documentation
+* [Extensions 2.0 doc](https://www.dynatrace.com/support/help/shortlink/extensions20)
+  * [YAML file overview](https://www.dynatrace.com/support/help/shortlink/extension-yaml)
+  * [WMI datasource tutorial](https://www.dynatrace.com/support/help/shortlink/wmi-tutorial-00)
+
+## Extensions Copilot 
+For extension development with snippets and real-time validation we recommend using [Copilot Visual Studio Code extension](https://extensions-copilot.dynatrace.com/).
