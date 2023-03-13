@@ -10,6 +10,12 @@ A schema release consists of:
 * The schema JSON files in *assets*. 
 * The release changelog in *description*.
 
+## Access schemas
+* Specific version
+  * https://github.com/dynatrace-extensions/extensions-schemas/releases/download/{VERSION}/{SCHEMA_NAME}
+* Latest
+  * https://github.com/dynatrace-extensions/extensions-schemas/releases/latest/download/{SCHEMA_NAME}
+
 ## Documentation
 * [Extensions 2.0 doc](https://www.dynatrace.com/support/help/shortlink/extensions20)
   * [YAML file overview](https://www.dynatrace.com/support/help/shortlink/extension-yaml)
